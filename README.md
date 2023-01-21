@@ -1,0 +1,2 @@
+# arreWhatsapp
+Whatsapp groupchat schema
